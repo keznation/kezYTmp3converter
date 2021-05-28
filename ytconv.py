@@ -14,7 +14,7 @@ print("""
 """)
 
 url=(input("Indica la url del video: "))
-path="/keznationytconverter/descargas/mp3"
+path="/keznationytconverter/downloads/mp3"
 
 yt=YouTube(url)
 
